@@ -9,7 +9,7 @@ import (
 	"sync"
 )
 
-const Version = "1.0.0"
+const Version = "1.0.1"
 
 // SearchInUrls поиск текста
 // Возвращает слайс из урлов, где есть совпадение
